@@ -18,5 +18,3 @@ Função tabela_watt_nominal: Esta função coleta informações sobre a potênc
 Função final: Esta função exibe os resultados, incluindo as cargas térmicas de diferentes fontes (sala, janelas, portas, pessoas e aparelhos). Em seguida, ela calcula a carga térmica total em Kcal/h e a converte para BTU. Ela recomenda um condicionador de ar apropriado com base na carga total de BTU requerida e exibe o modelo e o preço.
 
 Execução: O código começa chamando a função recinto para iniciar o processo e orienta o usuário por meio de várias solicitações de entrada.
-
-Explicação no GitHub: Para incluir este código em seu repositório do GitHub, crie um novo repositório e faça upload do script Python com um arquivo README apropriado que forneça instruções sobre como usar o código e o que ele faz. Você também pode incluir exemplos de entradas e saídas para uma melhor compreensão.
